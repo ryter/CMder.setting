@@ -1,0 +1,2 @@
+# CMder.setting
+setting
